@@ -7,8 +7,8 @@
 using namespace std;
 int main()
 {
-    fi;
-    fo;
+    /*fi;
+    fo;*/
     int i,t;
     /*variables*/
     double n;
